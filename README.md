@@ -8,9 +8,9 @@ Project Overview:
 This interactive Power BI dashboard analyzes ecommerce sales data to track revenue, profit, order quantity, and average order value. It provides breakdowns by state, category, customer, payment mode, and time period, enabling data-driven decisions to boost sales and profitability.
 ________________________________________
 Tools & Technology:
-•	Tool: Microsoft Power BI
-•	Data Source: Ecommerce transaction dataset
-•	Techniques: Data modeling, DAX calculations, interactive visuals, KPI cards
+1. Tool: Microsoft Power BI
+2. Data Source: Ecommerce transaction dataset
+3. Techniques: Data modeling, DAX calculations, interactive visuals, KPI cards
 ________________________________________
 Data Description:
 The dataset includes details of orders such as state, customer name, category, sub-category, payment mode, sales amount, profit, quantity, and order date.
@@ -33,10 +33,10 @@ o	Donut charts: Quantity by Category, Sales by Payment Mode.
 5.	Add slicers for quarter and state filters.
 ________________________________________
 Key Insights:
-•	Total Sales: 438K with 37K Profit and 5615 units sold.
-•	Clothing dominates sales volume (63%), followed by electronics and furniture.
-•	Maharashtra leads in total sales, with notable contributions from Madhya Pradesh and Uttar Pradesh.
-•	COD is the most popular payment mode (44%), followed by UPI and debit card.
-•	Printers and bookcases generate the highest profit margins among sub-categories.
+1.Total Sales: 438K with 37K Profit and 5615 units sold.
+2.Clothing dominates sales volume (63%), followed by electronics and furniture.
+3.Maharashtra leads in total sales, with notable contributions from Madhya Pradesh and Uttar Pradesh.
+4.COD is the most popular payment mode (44%), followed by UPI and debit card.
+5. Printers and bookcases generate the highest profit margins among sub-categories.
 
 
