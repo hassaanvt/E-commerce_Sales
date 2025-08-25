@@ -3,6 +3,7 @@
 
 Project Title:
 Ecommerce Sales Dashboard – Power BI Project
+![Image Alt](https://github.com/hassaanvt/E-commerce_Sales/blob/21a052844788172c3a14f44c8153caefb2144663/Dashboard_Image.jpg)
 ________________________________________
 Project Overview:
 This interactive Power BI dashboard analyzes ecommerce sales data to track revenue, profit, order quantity, and average order value. It provides breakdowns by state, category, customer, payment mode, and time period, enabling data-driven decisions to boost sales and profitability.
